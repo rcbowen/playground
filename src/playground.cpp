@@ -1,6 +1,14 @@
+/******************************************************/
+//       THIS IS A GENERATED FILE - DO NOT EDIT       //
+/******************************************************/
+
+#line 1 "f:/Code/playground/src/playground.ino"
 #include "Arduino.h"
 #include "DHT.h"
 
+void setup();
+void loop();
+#line 4 "f:/Code/playground/src/playground.ino"
 #define DHTPIN 4      // what pin we're connected to
 #define DHTTYPE DHT11 // DHT 22  (AM2302)
 
